@@ -11,8 +11,8 @@
 <servers>
   <server>
     <id>nexus</id>
-    <username>YOUR_NEXUS_USERNAME</username>
-    <password>YOUR_NEXUS_PASSWORD</password>
+    <username>admin</username>
+    <password>1234</password>
   </server>
 </servers>
   <dependencies>
