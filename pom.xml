@@ -8,13 +8,7 @@
   <version>3.0.0</version>
   <name>webapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
-<servers>
-  <server>
-    <id>nexus</id>
-    <username>admin</username>
-    <password>1234</password>
-  </server>
-</servers>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
